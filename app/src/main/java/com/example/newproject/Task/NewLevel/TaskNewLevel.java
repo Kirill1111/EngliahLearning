@@ -1,17 +1,18 @@
 package com.example.newproject.Task.NewLevel;
 
+import com.example.newproject.Task.Task;
 import com.example.newproject.Task.Tasks.TaskAnswer;
 
 public class TaskNewLevel {
-    private TaskAnswer taskList[];
+    private Task taskList[];
     private int AnswerID = 0;
 
-    public TaskNewLevel(TaskAnswer[] taskList) {
+    public TaskNewLevel(Task[] taskList) {
         this.taskList = taskList;
     }
 
-    public TaskAnswer GetTask() {
-        TaskAnswer task = taskList[AnswerID];
+    public Task GetTask() {
+        Task task = taskList[AnswerID];
         AnswerID++;
         return task;
     }
