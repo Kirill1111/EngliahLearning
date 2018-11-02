@@ -17,10 +17,4 @@ public class TaskNewLevel {
         return task;
     }
 
-    public boolean TestAnswer(int Answer) {
-        if (taskList[AnswerID].TestAnswer(Answer) == true)
-            return true;
-        else
-            return false;
-    }
-}
+            }
