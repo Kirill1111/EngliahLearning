@@ -11,16 +11,8 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbeb9a04-3465-412f-afc4-a9c0b8cb26fe" name="Default" comment="Init">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="fbeb9a04-3465-412f-afc4-a9c0b8cb26fe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/newproject/Task/NewLevel/TaskNewLevel.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/newproject/Task/NewLevel/TaskNewLevel.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/newproject/Task/Task.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/newproject/Task/Task.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/newproject/Task/Tasks/TaskAnswer.java" afterPath="$PROJECT_DIR$/src/main/java/com/example/newproject/Task/Tasks/TaskAnswer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -2352,6 +2344,14 @@
       <option name="presentableId" value="Default" />
       <updated>1540965159035</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init">
+      <created>1541171403041</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541171403042</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
